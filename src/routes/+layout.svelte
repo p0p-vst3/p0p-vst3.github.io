@@ -24,14 +24,6 @@
     font-size: clamp(1rem, 2vw, 2.25rem); 
   }
 
-  /* @media (max-width: 600px) { */
-  /*   :root { */
-  /*     font-size: calc(1rem + 0.5vw); */
-  /*   } */
-  /* } */
-  /*  */
-  /* @media () */
-
   /* css reset */
   :global(body) {
     font-family: var(--font-family);

@@ -7,12 +7,7 @@
     <h1>p0p</h1><h2>-vst3</h2> 
   </div>
   <p>
-    via
-    <span id="rfhw">Retrofuturistic Hardware</span>
-    @
-    <a id="gt" href="https://gtcmt.gatech.edu/"
-       target="_blank" rel="noopener noreferrer">Georgia Tech</a>.
-    
+    via <span id="rfhw">Retrofuturistic Hardware</span> @ <span id="gt">Georgia Tech</span>.
   </p>
   <div id="waveform-container">
     {@html Waveform}
@@ -67,5 +62,8 @@
   }
   #gh {
     color: #E060CC;
+  }
+  #gh:hover {
+    color: #fc9aed
   }
 </style>
