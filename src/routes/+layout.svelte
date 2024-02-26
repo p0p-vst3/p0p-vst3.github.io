@@ -2,13 +2,13 @@
   <slot />
 </div>
 
-<style>  
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;900&display=swap');
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;900&display=swap");
 
   #main-container {
     height: 100vh;
     width: 100vw;
-    
+
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -17,11 +17,11 @@
 
   /* global styles */
   :root {
-    --black: #0D0D0D;
-    --gray: #A8A8A8;
-    --white: #FFFFFF;
+    --black: #0d0d0d;
+    --gray: #a8a8a8;
+    --white: #ffffff;
     --font-family: "Inter";
-    font-size: clamp(1rem, 2vw, 2.25rem); 
+    font-size: clamp(1rem, 2vw, 2.2rem);
   }
 
   /* css reset */
